@@ -1,5 +1,5 @@
 # Quadratic-Equation-Solver
-# Quadratic Equation Solver
+
 
 A Python app with a Tkinter GUI that solves quadratic equations of the form ax² + bx + c = 0. 
 It calculates and displays the **number of solutions** as well as the **roots** (real or complex).
